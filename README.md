@@ -15,7 +15,7 @@ The contents of the web-server will progress as I progress in HTML, CSS, and Jav
 
 ### Public DNS IPv4
 
-For anyone who wants to see the live EC2 instance, click [here](ec2-54-149-25-154.us-west-2.compute.amazonaws.com).
+For anyone who wants to see the live EC2 instance, click [here](http://www.ec2-54-149-25-154.us-west-2.compute.amazonaws.com).
 
 ### User Data
 ```
