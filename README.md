@@ -37,4 +37,4 @@ echo "Hello, world!" > index.html
 
 ### StackOverflow and SuperUser Threads Used
 * **Purpose:** Used as reference for a bash script that pulls new data from the github repository on startup. [here](https://stackoverflow.com/questions/60072643/how-to-automatically-start-execute-and-stop-ec2)
-* **Purpose:** Used as reference to modify files in vim. [here](https://superuser.com/questions/694450/using-vim-to-force-edit-a-file-when-you-opened-without-permissions)
+* **Purpose:** Used as reference to modify files in SSH session. [here](https://superuser.com/questions/694450/using-vim-to-force-edit-a-file-when-you-opened-without-permissions)
