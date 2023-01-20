@@ -7,15 +7,15 @@ Obtain an understanding of how to deploy and maintain a web server through an AW
 
 ## Contents
 
+### Public DNS IPv4
+
+For anyone who wants to see the live EC2 instance, click [here](http://ec2-54-149-25-154.us-west-2.compute.amazonaws.com).
+
 ### Tasks
 * [x] Get an EC2 Instance Running
 * [x] Get a Basic HTML Web Server Running
 * [ ] Apply CSS Styling
 * [ ] Basic Portfolio Website
-
-### Public DNS IPv4
-
-For anyone who wants to see the live EC2 instance, click [here](http://ec2-54-149-25-154.us-west-2.compute.amazonaws.com).
 
 ### User Data
 **This is the user data that I had for my EC2 instance at launch.**
