@@ -10,8 +10,8 @@ The contents of the web-server will progress as I progress in HTML, CSS, and Jav
 ### Tasks
 * [x] Get an EC2 Instance Running
 * [x] Get a Basic HTML Web Server Running
-* [] Apply CSS Styling
-* [] Basic Portfolio Website
+* [ ] Apply CSS Styling
+* [ ] Basic Portfolio Website
 
 ### Public DNS IPv4
 
