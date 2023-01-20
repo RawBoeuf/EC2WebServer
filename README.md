@@ -1,7 +1,7 @@
 # EC2 Web-Server
 
 ## Goal
-Obtain an understanding of how to deploy and maintain a web server through an AWS EC2 instance Apache.
+Obtain an understanding of how to deploy and maintain a web server through an AWS EC2 instance on Apache.
 
 ## Contents
 ### Summary
