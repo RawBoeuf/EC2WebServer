@@ -36,4 +36,4 @@ echo "Hello, world!" > index.html
 * ["Markdown Crash Course" by Traversy Media](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
 ### StackOverflow and SuperUser Threads Used
-* **Purpose:**
+* **Purpose:** Used as reference for a bash script that pulls new data from the github repository on startup. [here](https://stackoverflow.com/questions/60072643/how-to-automatically-start-execute-and-stop-ec2)
