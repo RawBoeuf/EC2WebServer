@@ -1,4 +1,4 @@
-# EC2 Web-Server
+# EC2 Web Server
 ## Summary
 This is my first time using AWS. I've helped out with a website previously, but this is the first time making my own without help. The contents of the web-server will improve as I progress in HTML, CSS, and Javascript. The goal is to make a porfolio website with a basic HTML framework then add some CSS and Javascript.
 
