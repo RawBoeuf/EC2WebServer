@@ -26,3 +26,6 @@ systemctl start httpd
 systemctl enable httpd
 cd /var/www/html/
 ```
+
+### Learning Tools Used
+* ["Amazon Elastic Compute Cloud (EC2) Beginners Certification" Udemy Course by YouAccel](https://www.udemy.com/share/105nzg3@LMUCniwnz79Iz1TTyOcdvDsecSxWE71Oh-1MaSo5RD51toyK8gsXayz2LP08fpTi/)
