@@ -29,16 +29,16 @@ cd /var/www/html/
 echo "Hello, world!" > index.html
 ```
 
-### Learning Tools Used
-#### Paid
+## Learning Tools Used
+### Paid
 * ["Amazon Elastic Compute Cloud (EC2) Beginners Certification" Udemy Course by YouAccel](https://www.udemy.com/share/105nzg3@LMUCniwnz79Iz1TTyOcdvDsecSxWE71Oh-1MaSo5RD51toyK8gsXayz2LP08fpTi/)
-#### Free
+### Free
 * ["HTML & CSS" by Codecademy](https://www.codecademy.com/catalog/language/html-css)
 * ["Javascript" by Codecademy](https://www.codecademy.com/catalog/language/javascript)
 * ["Javascripting" and "Functional Javascripting" by Node School](https://nodeschool.io/)
 * ["Complete Beginner Path" by TryHackMe](https://tryhackme.com/)
 * ["Markdown Crash Course" by Traversy Media](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
-### StackOverflow and SuperUser Threads Used
+## StackOverflow and SuperUser Threads Used
 * **Purpose:** Used as reference for a bash script that pulls new data from the github repository on startup. [here](https://stackoverflow.com/questions/60072643/how-to-automatically-start-execute-and-stop-ec2)
 * **Purpose:** Used as reference to modify files in SSH session. [here](https://superuser.com/questions/694450/using-vim-to-force-edit-a-file-when-you-opened-without-permissions)
