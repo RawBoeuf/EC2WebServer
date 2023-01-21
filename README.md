@@ -10,7 +10,7 @@ Obtain an understanding of how to deploy and maintain a web server through an AW
 
 ### Public DNS IPv4
 
-For anyone who wants to see the live EC2 instance, click [here](http://ec2-54-149-25-154.us-west-2.compute.amazonaws.com).
+For anyone who wants to see the live EC2 instance, click [here](http://ec2-52-41-20-4.us-west-2.compute.amazonaws.com).
 
 ### Tasks (To Be Updated)
 * [x] Get an EC2 Instance Running
