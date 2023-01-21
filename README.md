@@ -44,3 +44,5 @@ echo "Hello, world!" > index.html
 * **Purpose:** Used as reference for a bash script that pulls new data from the github repository on startup. [here](https://stackoverflow.com/questions/60072643/how-to-automatically-start-execute-and-stop-ec2)
 * **Purpose:** Used as reference to modify files in SSH session. [here](https://superuser.com/questions/694450/using-vim-to-force-edit-a-file-when-you-opened-without-permissions)
 * **Purpose:** Used as reference to obtain data from github repository. [here](https://serverfault.com/questions/166874/how-do-i-get-curl-to-save-a-file-to-a-specified-directory)
+
+Copyright © 2022 Terry Pham
