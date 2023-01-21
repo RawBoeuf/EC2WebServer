@@ -20,7 +20,7 @@ For anyone who wants to see the live EC2 instance, click [here](http://ec2-52-41
 
 ### User Data
 **This is the user data that I had for my EC2 instance at launch.**
-```
+```bash
 #!/bin/bash
 yum update -y
 yum install -y httpd
