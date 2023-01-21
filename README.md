@@ -36,6 +36,7 @@ echo "Hello, world!" > index.html
 * ["HTML & CSS" by Codecademy](https://www.codecademy.com/catalog/language/html-css)
 * ["Javascript" by Codecademy](https://www.codecademy.com/catalog/language/javascript)
 * ["Javascripting" and "Functional Javascripting" by Node School](https://nodeschool.io/)
+* ["Linux Fundamentals" by TryHackMe](https://tryhackme.com/)
 * ["Markdown Crash Course" by Traversy Media](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
 ### StackOverflow and SuperUser Threads Used
