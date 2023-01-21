@@ -34,6 +34,7 @@ echo "Hello, world!" > index.html
 * ["Amazon Elastic Compute Cloud (EC2) Beginners Certification" Udemy Course by YouAccel](https://www.udemy.com/share/105nzg3@LMUCniwnz79Iz1TTyOcdvDsecSxWE71Oh-1MaSo5RD51toyK8gsXayz2LP08fpTi/)
 #### Free
 * ["HTML & CSS" by Codecademy](https://www.codecademy.com/catalog/language/html-css)
+* ["Javascript" by Codecademy](https://www.codecademy.com/catalog/language/javascript)
 * ["Markdown Crash Course" by Traversy Media](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
 ### StackOverflow and SuperUser Threads Used
