@@ -40,6 +40,17 @@ echo "Hello, world!" > index.html
 * ["Complete Beginner Path" by TryHackMe](https://tryhackme.com/)
 * ["Markdown Crash Course" by Traversy Media](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
+## Recommended DNS Services (FREE)
+
+* [No-IP Dynamic DNS](https://www.noip.com/)
+    * **Pros:** Dynamic DNS. Easy to use. From what I know, no need for renewal. FREE.
+    * **Cons:** 1 Free DNS Per Account. Domains are: .hopto.org, .zapto.org, .sytes.net, and .ddns.net.
+
+* [Freenom](https://www.freenom.com/)
+    * **Pros:** Static DNS. Easy to use, configurable to an extent. Renewal every year. FREE.
+    * **Cons:** No limit that I"m aware of. Domains are: .tk, .ml, .ga, .cf, and .gq.
+**IMPORTANT NOTE: FreeNom is not accepting new Domains currently. Date of Note: 1/24/2023**
+
 ## StackOverflow, ServerFault, and SuperUser Threads Used
 * **Purpose:** Used as reference for a bash script that pulls new data from the github repository on startup. [here](https://stackoverflow.com/questions/60072643/how-to-automatically-start-execute-and-stop-ec2)
 * **Purpose:** Used as reference to modify files in SSH session. [here](https://superuser.com/questions/694450/using-vim-to-force-edit-a-file-when-you-opened-without-permissions)
