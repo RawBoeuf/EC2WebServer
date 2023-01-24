@@ -48,7 +48,7 @@ echo "Hello, world!" > index.html
 
 * [Freenom](https://www.freenom.com/)
     * **Pros:** Static DNS. Easy to use, configurable to an extent. Renewal every year. FREE.
-    * **Cons:** No limit that I"m aware of. Domains are: .tk, .ml, .ga, .cf, and .gq.
+    * **Cons:** No limit that I'm aware of. Domains are: .tk, .ml, .ga, .cf, and .gq.
 **IMPORTANT NOTE: FreeNom is not accepting new Domains currently. Date of Note: 1/24/2023**
 
 ## StackOverflow, ServerFault, and SuperUser Threads Used
