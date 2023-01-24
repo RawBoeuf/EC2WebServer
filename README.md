@@ -1,7 +1,7 @@
 # EC2 Web Server
 ![EC2 Logo Banner](resources/EC2.jpg)
 ## Summary
-This is my first time using AWS. I've helped out with a website previously, but this is the first time making my own without help. The contents of the web server will improve as I progress in learning Apache, HTML, CSS, and Javascript. The goal is to make a porfolio website with a basic HTML framework then add some CSS and Javascript.
+This is my first time using AWS. I've helped out with a website previously, but this is the first time making my own without help. The contents of the web server will improve as I progress in learning Apache, HTML, CSS, and Javascript. The goal is to make a porfolio website with a basic HTML framework then add some CSS and Javascript. I have deployed a t2.micro instance using free tier credits and will be maintaining that as well as this GitHub repository by extension.
 
 ## Goal
 Obtain an understanding of how to deploy and maintain a web server through an AWS EC2 instance.
