@@ -48,8 +48,8 @@ Amazon Route 53 is really easy to connect to an instance. But, the cheapest doma
     * **Cons:** 1 Free DNS Per Account. Domains are: .hopto.org, .zapto.org, .sytes.net, and .ddns.net.
 
 * [Freenom](https://www.freenom.com/)
-    * **Pros:** Static DNS. Easy to use, configurable to an extent. Renewal every year. FREE.
-    * **Cons:** No limit that I'm aware of. Domains are: .tk, .ml, .ga, .cf, and .gq.
+    * **Pros:** Static DNS. Easy to use, configurable to an extent. FREE.
+    * **Cons:** No limit that I'm aware of. Renewal every year. Domains are: .tk, .ml, .ga, .cf, and .gq.
 **IMPORTANT NOTE: FreeNom is not accepting new Domains currently. Date of Note: 1/24/2023**
 
 ## StackOverflow, ServerFault, and SuperUser Threads Used
