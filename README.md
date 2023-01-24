@@ -45,7 +45,7 @@ Amazon Route 53 is really easy to connect to an instance. But, the cheapest doma
 
 * [No-IP Dynamic DNS](https://www.noip.com/) - This is the one I'm currently using.
     * **Pros:** Dynamic DNS. Easy to use. From what I know, no need for renewal. FREE.
-    * **Cons:** 1 Free DNS Per Account. Domains are: .hopto.org, .zapto.org, .sytes.net, and .ddns.net.
+    * **Cons:** 1 Free DNS Per Account. Domains are: .hopto.org, .zapto.org, .sytes.net, and .ddns.net. **IMPORTANT NOTE: As of currently, I do not know of a way to use their Device Configuration Assistant to have Dynamic DNS in EC2. Date of Note: 1/24/2023**
 
 * [Freenom](https://www.freenom.com/)
     * **Pros:** Static DNS. Easy to use, configurable to an extent. FREE.
