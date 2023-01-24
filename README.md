@@ -41,8 +41,9 @@ echo "Hello, world!" > index.html
 * ["Markdown Crash Course" by Traversy Media](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
 ## Recommended DNS Services (FREE)
+Amazon Route 53 is really easy to connect to an instance. But, the cheapest domaI know is .click and it's $3 a month.
 
-* [No-IP Dynamic DNS](https://www.noip.com/)
+* [No-IP Dynamic DNS](https://www.noip.com/) - This is the one I'm currently using.
     * **Pros:** Dynamic DNS. Easy to use. From what I know, no need for renewal. FREE.
     * **Cons:** 1 Free DNS Per Account. Domains are: .hopto.org, .zapto.org, .sytes.net, and .ddns.net.
 
